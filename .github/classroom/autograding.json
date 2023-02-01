@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Makefile",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
